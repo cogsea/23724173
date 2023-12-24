@@ -3,7 +3,7 @@ layout: post
 title:  Que Faire à la Retraite?
 description: "Que faire lorsque l on est retraité? Lorsque l on est pensionné? Retraite active. Retraite sereine."
 date:   2023-12-06 15:01:35 +0100
-image:  assets/images/retraite-plage-monica-silvestre.jpg
+image: assets/images/retraite-plage-monica-silvestre.jpg
 tags:  [Retraite Active, featured]
 author: marianne
 ---
